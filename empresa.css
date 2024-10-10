@@ -73,10 +73,6 @@ nav{
 	box-sizing: border-box;
   }
   
- body{
-	background-image: url(galleta3.svg);
- }
-  
   .form-register {
 	width: 400px;
 	background: #24303c;
